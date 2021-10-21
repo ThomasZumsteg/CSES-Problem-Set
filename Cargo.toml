@@ -1,0 +1,24 @@
+[package]
+name = "cses"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name="0001-weird-algorithm"
+path="0001-weird-algorithm.rs"
+
+[[bin]]
+name="0002-missing-numbers"
+path="0002-missing-numbers.rs"
+
+[[bin]]
+name="0003-repetitions"
+path="0003-repetitions.rs"
+
+[[bin]]
+name="0004-increasing-array"
+path="0004-increasing-array.rs"
+ 
+[dependencies]

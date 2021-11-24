@@ -20,5 +20,9 @@ path="0003-repetitions.rs"
 [[bin]]
 name="0004-increasing-array"
 path="0004-increasing-array.rs"
+
+[[bin]]
+name="0005-number-spiral"
+path="0005-number-spiral.rs"
  
 [dependencies]
